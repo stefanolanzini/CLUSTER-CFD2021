@@ -48,3 +48,10 @@ This modified system file must be copied to every node. Now it’s possible to S
 simply by using the command:
 
 **ssh nodo9**
+
+
+
+
+
+
+
