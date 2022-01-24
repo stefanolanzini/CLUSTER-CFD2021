@@ -1,4 +1,4 @@
-**SSH**
+SSH
 SSH or Secure Shell is a network communication protocol that enables two or more computers to communicate,
 access each other and share data. The server version of SSH is installed and started in all the nodes with the
 following commands:
